@@ -1,0 +1,39 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# VSCode settings
+.vscode/
+
+# Visual Studio/MonoDevelop files
+*.csproj
+*.pidb
+*.sln
+*.user
+*.unityproj
+*.suo
+
+# Unity metadata files
+*.meta
+
+# Generated lightmaps and lighting data
+[Ll]ightmap*
+*.ReflectionProbe*.exr
+
+# Gradle files (Android builds)
+.gradle/
+*.apk
+
+# Burst compiler cache (optional)
+[Bb]urstCache/
+
+# Crashlytics (optional)
+[Ff]irebaseCrashlytics/
+
+# Unity Asset Store tools
+[Uu]nity[As]set[St]ore/
